@@ -1,0 +1,38 @@
+{
+    "id": "1c10660f-6ad4-4168-9dee-8358d9940763",
+    "clusters": [
+        {
+            "label": "default",
+            "custom_tags": {
+                "project": "dbdemos",
+                "demo": "lakehouse-iot-platform",
+                "demo_install_date": "2023-02-01"
+            },
+            "autoscale": {
+                "min_workers": 1,
+                "max_workers": 2,
+                "mode": "LEGACY"
+            }
+        }
+    ],
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "edition": "ADVANCED",
+    "photon": false,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/Users/jyotsna.bharadwaj@databricks.com/dbdemos/lakehouse-iot-platform/01-Data-ingestion/01.1-DLT-Wind-Turbine-SQL"
+            }
+        },
+        {
+            "notebook": {
+                "path": "/Users/jyotsna.bharadwaj@databricks.com/dbdemos/lakehouse-iot-platform/01-Data-ingestion/01.2-DLT-Wind-Turbine-SQL-UDF"
+            }
+        }
+    ],
+    "name": "dbdemos_dlt_iot_turbine_jyotsna_bharadwaj",
+    "storage": "/demos/dlt/lakehouse_iot_turbine/jyotsna_bharadwaj",
+    "target": "dbdemos_lakehouse_iot_turbine_jyotsna_bharadwaj"
+}

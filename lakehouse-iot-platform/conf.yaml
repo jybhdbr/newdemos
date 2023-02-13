@@ -1,0 +1,4 @@
+repos_path_prefix: /Repos/jyotsna.bharadwaj@databricks.com/newdemos
+git_url: https://github.com/jybhdbr/newdemos/
+provider: github
+branch: master

@@ -85,6 +85,6 @@
 # MAGIC %md
 # MAGIC ## Conclusion
 # MAGIC 
-# MAGIC Not only Datatabricks Lakehouse let you ingest, analyze and infer churn, it also provides a best-in-class orchestrator to offer your business fresh insight making sure everything works as expected!
+# MAGIC Not only Datatabricks Lakehouse let you ingest, analyze and infer churn, it also provides a best-in-class orchestrator to offer your business fresh insight making sure everything works as expecte!
 # MAGIC 
 # MAGIC [Go back to introduction]($../00-churn-introduction-lakehouse)
